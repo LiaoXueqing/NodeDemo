@@ -1,6 +1,6 @@
-node demo
+# node demo
 
-# 在安装Node的环境下运行该Demo
+在安装Node的环境下运行该Demo
 
 ## 读取控制台输入
 getInput目录下，运行 node getInputFromConsole.js 
