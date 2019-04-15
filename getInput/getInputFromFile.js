@@ -8,5 +8,5 @@ const rl = readline.createInterface({
 let index = 0;
 rl.on('line', (line) => {
     index++
-    console.log(`文件第${index}每行内容：${line}`);
+    console.log(`文件第${index}行内容：${line}`);
 });
